@@ -1,1 +1,1 @@
-# SQl_Projects
+# SQL_Projects
