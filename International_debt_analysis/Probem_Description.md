@@ -6,5 +6,7 @@ https://datatopics.worldbank.org/debt/ids/country/CHN
 We are going to find the answers to questions like:
 
 1.What is the total amount of debt that is owed by the countries listed in the dataset?
+
 2.Which country owns the maximum amount of debt and what does that amount look like?
+
 3.What is the average amount of debt owed by countries across different debt indicators?
